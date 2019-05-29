@@ -1,0 +1,27 @@
+h1 {
+  color: #700014;
+}
+
+h2.paris {
+  color: red;
+
+}
+
+h2.rome {
+  color: #211266;
+  font-style:
+}
+
+h2.newYork {
+font-weight: lighter;
+}
+
+body {
+  background-color: #a8a8a8;
+  font-family: 'Ranga', cursive;
+  font-size: 200%;
+}
+
+img {
+  border: solid blue 20px;
+}
